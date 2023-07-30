@@ -1,6 +1,6 @@
 <template>
-  <div>
-    Marek a Katka svadba site incoming...
-    <NuxtWelcome />
+  <div font-serif>
+    <!-- <NuxtWelcome /> -->
+    <Countdown />
   </div>
 </template>
